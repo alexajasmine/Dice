@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway);
 
 body {
-    background-color: rgb(255,192,203);
+    background-image: linear-gradient(to bottom, rgb(255,192,203), lightpink, lavenderblush);
     color: rgb(0,0,0);
     font-family: 'Raleway';
     text-align: center;
